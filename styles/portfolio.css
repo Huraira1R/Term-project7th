@@ -1,0 +1,5 @@
+body { font-family: Tahoma; background-color: #eef; margin: 0; }
+header { background: #222; color: white; padding: 10px; text-align: center; }
+nav a { color: white; margin: 0 10px; text-decoration: none; }
+.portfolio-items { padding: 20px; }
+.item { background: #ccc; padding: 10px; margin: 10px 0; }
